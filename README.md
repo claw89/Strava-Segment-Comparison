@@ -10,7 +10,9 @@ Download the required SRTM tiles to /tiles
 
 Run the following from the command line:
 
+```
 python segments.py 
+```
 
 ### Prerequisites
 
