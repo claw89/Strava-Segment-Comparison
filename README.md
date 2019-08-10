@@ -16,24 +16,13 @@ python segments.py
 
 ### Prerequisites
 
-SciPy
-gmalthgtparser
-polyline
-gpxpy
+* SciPy
+* gmalthgtparser
+* polyline
+* gpxpy
 
 ## Authors
 
 * **Chris Law** - *Initial work* - [claw89](https://github.com/claw89)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
